@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Killer Tweet</string>
+    <string name="refresh_button">Refresh Tweets</string>
+    <string name="active_tweets">TWITTER \nCONTENT</string>
+    <string name="tweet_profile_image">Twitter User profile image</string>
+    <string name="search_tweets">Get Tweets</string>
+
+</resources>
